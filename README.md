@@ -1,4 +1,4 @@
-# Getting Starting
+# Getting Started
 ## C code:
 Will be uploaded soon with support for SPI, I2C might follow later (if I actually bother to modify the microview board by soldering the relevant jumper)
 
