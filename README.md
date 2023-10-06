@@ -1,4 +1,7 @@
 # Getting Started
+## Overview:
+This is a quick port/adaptation of the arduino library for Sparkfun's Microview OLED display to Raspberry Pi Pico plain C.
+
 ## C code:
 Will be uploaded soon with support for SPI, I2C might follow later (if I actually bother to modify the microview board by soldering the relevant jumper)
 
